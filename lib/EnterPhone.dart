@@ -6,7 +6,7 @@ class EnterPhone extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      bod: MainBodyText(),
+      body: MainBodyText(),
     );
   }
 }
